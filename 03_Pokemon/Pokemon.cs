@@ -3,8 +3,8 @@ using System;
 
 class Pokemon
 {
-    public int ataque, defesa, PS;
-    public double CalculoIV()
+    private int ataque, defesa, PS;
+    private double CalculoIV()
     {
         return (ataque + defesa + PS) * 2.2;
     }
