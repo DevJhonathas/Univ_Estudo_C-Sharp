@@ -1,0 +1,15 @@
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\04_CalculadoraIMC\bin\Debug\net6.0\04_CalculadoraIMC.exe
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\04_CalculadoraIMC\bin\Debug\net6.0\04_CalculadoraIMC.deps.json
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\04_CalculadoraIMC\bin\Debug\net6.0\04_CalculadoraIMC.runtimeconfig.json
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\04_CalculadoraIMC\bin\Debug\net6.0\04_CalculadoraIMC.dll
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\04_CalculadoraIMC\bin\Debug\net6.0\04_CalculadoraIMC.pdb
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\04_CalculadoraIMC\obj\Debug\net6.0\04_CalculadoraIMC.csproj.AssemblyReference.cache
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\04_CalculadoraIMC\obj\Debug\net6.0\04_CalculadoraIMC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\04_CalculadoraIMC\obj\Debug\net6.0\04_CalculadoraIMC.AssemblyInfoInputs.cache
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\04_CalculadoraIMC\obj\Debug\net6.0\04_CalculadoraIMC.AssemblyInfo.cs
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\04_CalculadoraIMC\obj\Debug\net6.0\04_CalculadoraIMC.csproj.CoreCompileInputs.cache
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\04_CalculadoraIMC\obj\Debug\net6.0\04_CalculadoraIMC.dll
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\04_CalculadoraIMC\obj\Debug\net6.0\refint\04_CalculadoraIMC.dll
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\04_CalculadoraIMC\obj\Debug\net6.0\04_CalculadoraIMC.pdb
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\04_CalculadoraIMC\obj\Debug\net6.0\04_CalculadoraIMC.genruntimeconfig.cache
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\04_CalculadoraIMC\obj\Debug\net6.0\ref\04_CalculadoraIMC.dll
