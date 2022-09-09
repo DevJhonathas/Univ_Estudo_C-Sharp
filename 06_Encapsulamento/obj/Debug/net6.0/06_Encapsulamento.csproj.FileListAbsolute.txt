@@ -1,0 +1,15 @@
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\06_Encapsulamento\bin\Debug\net6.0\06_Encapsulamento.exe
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\06_Encapsulamento\bin\Debug\net6.0\06_Encapsulamento.deps.json
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\06_Encapsulamento\bin\Debug\net6.0\06_Encapsulamento.runtimeconfig.json
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\06_Encapsulamento\bin\Debug\net6.0\06_Encapsulamento.dll
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\06_Encapsulamento\bin\Debug\net6.0\06_Encapsulamento.pdb
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\06_Encapsulamento\obj\Debug\net6.0\06_Encapsulamento.csproj.AssemblyReference.cache
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\06_Encapsulamento\obj\Debug\net6.0\06_Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\06_Encapsulamento\obj\Debug\net6.0\06_Encapsulamento.AssemblyInfoInputs.cache
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\06_Encapsulamento\obj\Debug\net6.0\06_Encapsulamento.AssemblyInfo.cs
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\06_Encapsulamento\obj\Debug\net6.0\06_Encapsulamento.csproj.CoreCompileInputs.cache
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\06_Encapsulamento\obj\Debug\net6.0\06_Encapsulamento.dll
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\06_Encapsulamento\obj\Debug\net6.0\refint\06_Encapsulamento.dll
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\06_Encapsulamento\obj\Debug\net6.0\06_Encapsulamento.pdb
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\06_Encapsulamento\obj\Debug\net6.0\06_Encapsulamento.genruntimeconfig.cache
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\06_Encapsulamento\obj\Debug\net6.0\ref\06_Encapsulamento.dll

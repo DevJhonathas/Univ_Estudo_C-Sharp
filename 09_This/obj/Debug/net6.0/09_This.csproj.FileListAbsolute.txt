@@ -1,0 +1,15 @@
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\09_This\bin\Debug\net6.0\09_This.exe
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\09_This\bin\Debug\net6.0\09_This.deps.json
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\09_This\bin\Debug\net6.0\09_This.runtimeconfig.json
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\09_This\bin\Debug\net6.0\09_This.dll
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\09_This\bin\Debug\net6.0\09_This.pdb
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\09_This\obj\Debug\net6.0\09_This.csproj.AssemblyReference.cache
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\09_This\obj\Debug\net6.0\09_This.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\09_This\obj\Debug\net6.0\09_This.AssemblyInfoInputs.cache
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\09_This\obj\Debug\net6.0\09_This.AssemblyInfo.cs
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\09_This\obj\Debug\net6.0\09_This.csproj.CoreCompileInputs.cache
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\09_This\obj\Debug\net6.0\09_This.dll
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\09_This\obj\Debug\net6.0\refint\09_This.dll
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\09_This\obj\Debug\net6.0\09_This.pdb
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\09_This\obj\Debug\net6.0\09_This.genruntimeconfig.cache
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\09_This\obj\Debug\net6.0\ref\09_This.dll

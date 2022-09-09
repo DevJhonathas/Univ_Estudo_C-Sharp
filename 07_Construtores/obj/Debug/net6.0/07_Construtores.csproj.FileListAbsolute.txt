@@ -1,0 +1,15 @@
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\07_Construtores\bin\Debug\net6.0\07_Construtores.exe
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\07_Construtores\bin\Debug\net6.0\07_Construtores.deps.json
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\07_Construtores\bin\Debug\net6.0\07_Construtores.runtimeconfig.json
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\07_Construtores\bin\Debug\net6.0\07_Construtores.dll
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\07_Construtores\bin\Debug\net6.0\07_Construtores.pdb
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\07_Construtores\obj\Debug\net6.0\07_Construtores.csproj.AssemblyReference.cache
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\07_Construtores\obj\Debug\net6.0\07_Construtores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\07_Construtores\obj\Debug\net6.0\07_Construtores.AssemblyInfoInputs.cache
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\07_Construtores\obj\Debug\net6.0\07_Construtores.AssemblyInfo.cs
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\07_Construtores\obj\Debug\net6.0\07_Construtores.csproj.CoreCompileInputs.cache
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\07_Construtores\obj\Debug\net6.0\07_Construtores.dll
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\07_Construtores\obj\Debug\net6.0\refint\07_Construtores.dll
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\07_Construtores\obj\Debug\net6.0\07_Construtores.pdb
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\07_Construtores\obj\Debug\net6.0\07_Construtores.genruntimeconfig.cache
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\07_Construtores\obj\Debug\net6.0\ref\07_Construtores.dll

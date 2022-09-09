@@ -1,0 +1,15 @@
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\08_GetSet\obj\Debug\net6.0\08_GetSet.csproj.AssemblyReference.cache
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\08_GetSet\obj\Debug\net6.0\08_GetSet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\08_GetSet\obj\Debug\net6.0\08_GetSet.AssemblyInfoInputs.cache
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\08_GetSet\obj\Debug\net6.0\08_GetSet.AssemblyInfo.cs
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\08_GetSet\obj\Debug\net6.0\08_GetSet.csproj.CoreCompileInputs.cache
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\08_GetSet\bin\Debug\net6.0\08_GetSet.exe
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\08_GetSet\bin\Debug\net6.0\08_GetSet.deps.json
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\08_GetSet\bin\Debug\net6.0\08_GetSet.runtimeconfig.json
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\08_GetSet\bin\Debug\net6.0\08_GetSet.dll
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\08_GetSet\bin\Debug\net6.0\08_GetSet.pdb
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\08_GetSet\obj\Debug\net6.0\08_GetSet.dll
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\08_GetSet\obj\Debug\net6.0\refint\08_GetSet.dll
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\08_GetSet\obj\Debug\net6.0\08_GetSet.pdb
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\08_GetSet\obj\Debug\net6.0\08_GetSet.genruntimeconfig.cache
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\08_GetSet\obj\Debug\net6.0\ref\08_GetSet.dll
