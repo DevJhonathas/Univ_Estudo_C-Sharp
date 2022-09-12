@@ -1,0 +1,15 @@
+D:\Projetos\Estudo C#\10_Herenca\obj\Debug\net6.0\10_Herenca.csproj.AssemblyReference.cache
+D:\Projetos\Estudo C#\10_Herenca\obj\Debug\net6.0\10_Herenca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Estudo C#\10_Herenca\obj\Debug\net6.0\10_Herenca.AssemblyInfoInputs.cache
+D:\Projetos\Estudo C#\10_Herenca\obj\Debug\net6.0\10_Herenca.AssemblyInfo.cs
+D:\Projetos\Estudo C#\10_Herenca\obj\Debug\net6.0\10_Herenca.csproj.CoreCompileInputs.cache
+D:\Projetos\Estudo C#\10_Herenca\bin\Debug\net6.0\10_Herenca.exe
+D:\Projetos\Estudo C#\10_Herenca\bin\Debug\net6.0\10_Herenca.deps.json
+D:\Projetos\Estudo C#\10_Herenca\bin\Debug\net6.0\10_Herenca.runtimeconfig.json
+D:\Projetos\Estudo C#\10_Herenca\bin\Debug\net6.0\10_Herenca.dll
+D:\Projetos\Estudo C#\10_Herenca\bin\Debug\net6.0\10_Herenca.pdb
+D:\Projetos\Estudo C#\10_Herenca\obj\Debug\net6.0\10_Herenca.dll
+D:\Projetos\Estudo C#\10_Herenca\obj\Debug\net6.0\refint\10_Herenca.dll
+D:\Projetos\Estudo C#\10_Herenca\obj\Debug\net6.0\10_Herenca.pdb
+D:\Projetos\Estudo C#\10_Herenca\obj\Debug\net6.0\10_Herenca.genruntimeconfig.cache
+D:\Projetos\Estudo C#\10_Herenca\obj\Debug\net6.0\ref\10_Herenca.dll

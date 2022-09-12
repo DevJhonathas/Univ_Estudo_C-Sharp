@@ -1,0 +1,15 @@
+D:\Projetos\Estudo C#\12_Estatico\obj\Debug\net6.0\12_Estatico.csproj.AssemblyReference.cache
+D:\Projetos\Estudo C#\12_Estatico\obj\Debug\net6.0\12_Estatico.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Estudo C#\12_Estatico\obj\Debug\net6.0\12_Estatico.AssemblyInfoInputs.cache
+D:\Projetos\Estudo C#\12_Estatico\obj\Debug\net6.0\12_Estatico.AssemblyInfo.cs
+D:\Projetos\Estudo C#\12_Estatico\obj\Debug\net6.0\12_Estatico.csproj.CoreCompileInputs.cache
+D:\Projetos\Estudo C#\12_Estatico\bin\Debug\net6.0\12_Estatico.exe
+D:\Projetos\Estudo C#\12_Estatico\bin\Debug\net6.0\12_Estatico.deps.json
+D:\Projetos\Estudo C#\12_Estatico\bin\Debug\net6.0\12_Estatico.runtimeconfig.json
+D:\Projetos\Estudo C#\12_Estatico\bin\Debug\net6.0\12_Estatico.dll
+D:\Projetos\Estudo C#\12_Estatico\bin\Debug\net6.0\12_Estatico.pdb
+D:\Projetos\Estudo C#\12_Estatico\obj\Debug\net6.0\12_Estatico.dll
+D:\Projetos\Estudo C#\12_Estatico\obj\Debug\net6.0\refint\12_Estatico.dll
+D:\Projetos\Estudo C#\12_Estatico\obj\Debug\net6.0\12_Estatico.pdb
+D:\Projetos\Estudo C#\12_Estatico\obj\Debug\net6.0\12_Estatico.genruntimeconfig.cache
+D:\Projetos\Estudo C#\12_Estatico\obj\Debug\net6.0\ref\12_Estatico.dll

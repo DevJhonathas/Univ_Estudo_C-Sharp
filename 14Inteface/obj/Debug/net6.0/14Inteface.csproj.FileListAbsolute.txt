@@ -1,0 +1,15 @@
+D:\Projetos\Estudo C#\14Inteface\bin\Debug\net6.0\14Inteface.exe
+D:\Projetos\Estudo C#\14Inteface\bin\Debug\net6.0\14Inteface.deps.json
+D:\Projetos\Estudo C#\14Inteface\bin\Debug\net6.0\14Inteface.runtimeconfig.json
+D:\Projetos\Estudo C#\14Inteface\bin\Debug\net6.0\14Inteface.dll
+D:\Projetos\Estudo C#\14Inteface\bin\Debug\net6.0\14Inteface.pdb
+D:\Projetos\Estudo C#\14Inteface\obj\Debug\net6.0\14Inteface.csproj.AssemblyReference.cache
+D:\Projetos\Estudo C#\14Inteface\obj\Debug\net6.0\14Inteface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Estudo C#\14Inteface\obj\Debug\net6.0\14Inteface.AssemblyInfoInputs.cache
+D:\Projetos\Estudo C#\14Inteface\obj\Debug\net6.0\14Inteface.AssemblyInfo.cs
+D:\Projetos\Estudo C#\14Inteface\obj\Debug\net6.0\14Inteface.csproj.CoreCompileInputs.cache
+D:\Projetos\Estudo C#\14Inteface\obj\Debug\net6.0\14Inteface.dll
+D:\Projetos\Estudo C#\14Inteface\obj\Debug\net6.0\refint\14Inteface.dll
+D:\Projetos\Estudo C#\14Inteface\obj\Debug\net6.0\14Inteface.pdb
+D:\Projetos\Estudo C#\14Inteface\obj\Debug\net6.0\14Inteface.genruntimeconfig.cache
+D:\Projetos\Estudo C#\14Inteface\obj\Debug\net6.0\ref\14Inteface.dll

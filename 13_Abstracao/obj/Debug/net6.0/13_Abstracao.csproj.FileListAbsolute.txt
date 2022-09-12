@@ -1,0 +1,15 @@
+D:\Projetos\Estudo C#\13_Abstracao\obj\Debug\net6.0\13_Abstracao.csproj.AssemblyReference.cache
+D:\Projetos\Estudo C#\13_Abstracao\obj\Debug\net6.0\13_Abstracao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Estudo C#\13_Abstracao\obj\Debug\net6.0\13_Abstracao.AssemblyInfoInputs.cache
+D:\Projetos\Estudo C#\13_Abstracao\obj\Debug\net6.0\13_Abstracao.AssemblyInfo.cs
+D:\Projetos\Estudo C#\13_Abstracao\obj\Debug\net6.0\13_Abstracao.csproj.CoreCompileInputs.cache
+D:\Projetos\Estudo C#\13_Abstracao\bin\Debug\net6.0\13_Abstracao.exe
+D:\Projetos\Estudo C#\13_Abstracao\bin\Debug\net6.0\13_Abstracao.deps.json
+D:\Projetos\Estudo C#\13_Abstracao\bin\Debug\net6.0\13_Abstracao.runtimeconfig.json
+D:\Projetos\Estudo C#\13_Abstracao\bin\Debug\net6.0\13_Abstracao.dll
+D:\Projetos\Estudo C#\13_Abstracao\bin\Debug\net6.0\13_Abstracao.pdb
+D:\Projetos\Estudo C#\13_Abstracao\obj\Debug\net6.0\13_Abstracao.dll
+D:\Projetos\Estudo C#\13_Abstracao\obj\Debug\net6.0\refint\13_Abstracao.dll
+D:\Projetos\Estudo C#\13_Abstracao\obj\Debug\net6.0\13_Abstracao.pdb
+D:\Projetos\Estudo C#\13_Abstracao\obj\Debug\net6.0\13_Abstracao.genruntimeconfig.cache
+D:\Projetos\Estudo C#\13_Abstracao\obj\Debug\net6.0\ref\13_Abstracao.dll
