@@ -1,0 +1,15 @@
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\Exercicio2\obj\Debug\net6.0\Exercicio2.csproj.AssemblyReference.cache
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\Exercicio2\obj\Debug\net6.0\Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\Exercicio2\obj\Debug\net6.0\Exercicio2.AssemblyInfoInputs.cache
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\Exercicio2\obj\Debug\net6.0\Exercicio2.AssemblyInfo.cs
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\Exercicio2\obj\Debug\net6.0\Exercicio2.csproj.CoreCompileInputs.cache
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\Exercicio2\bin\Debug\net6.0\Exercicio2.exe
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\Exercicio2\bin\Debug\net6.0\Exercicio2.deps.json
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\Exercicio2\bin\Debug\net6.0\Exercicio2.runtimeconfig.json
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\Exercicio2\bin\Debug\net6.0\Exercicio2.dll
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\Exercicio2\bin\Debug\net6.0\Exercicio2.pdb
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\Exercicio2\obj\Debug\net6.0\Exercicio2.dll
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\Exercicio2\obj\Debug\net6.0\refint\Exercicio2.dll
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\Exercicio2\obj\Debug\net6.0\Exercicio2.pdb
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\Exercicio2\obj\Debug\net6.0\Exercicio2.genruntimeconfig.cache
+D:\Jhonathas_Erros\PastaPessoal - Jhonathas\Exercícios-Programação\Orientacao a Objeto - C#\Exercicio2\obj\Debug\net6.0\ref\Exercicio2.dll

@@ -10,5 +10,4 @@ class Calculo : IPadrao
     {
         Console.WriteLine("A subtracao é: " + (n1-n2));
     }
-
 }
